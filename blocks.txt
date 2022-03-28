@@ -1,0 +1,10 @@
+netherrack
+quartz
+magma_block
+gravel
+blackstone
+basalt
+soul_sand
+flint
+gold_nugget
+soul_soil
